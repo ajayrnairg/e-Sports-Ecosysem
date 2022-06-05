@@ -1,0 +1,10 @@
+<!doctype html>
+<body>
+    <header>
+        <?php include './header.php';
+    </header>
+    <footer>
+        
+    </footer>
+</body>
+</html>
